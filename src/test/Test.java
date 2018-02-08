@@ -3,6 +3,6 @@ package test;
 public class Test {
 int y =0;
 String tietoudong = "dashabi";
-int s = 2231324;
+int s = 22131324;
 
 }
